@@ -3,7 +3,7 @@ const cliente = "Juan"
 
 
 const precio = 1000 
-// cont precio (No pueden inicializarse sin valor)
+// const precio (No pueden inicializarse sin valor)
 
 console.log(cliente)
 console.log(precio)
